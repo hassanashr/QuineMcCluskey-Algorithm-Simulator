@@ -1,0 +1,5 @@
+2
+m
+d
+# Convention: "d" means no don’t-care terms.
+# Convention: "m" means no minterms.

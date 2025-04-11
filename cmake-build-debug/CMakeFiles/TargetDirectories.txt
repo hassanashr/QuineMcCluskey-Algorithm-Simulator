@@ -1,0 +1,3 @@
+C:/ADS/dd1-s25-project1-outliers/cmake-build-debug/CMakeFiles/dd1_s25_project1_outliers.dir
+C:/ADS/dd1-s25-project1-outliers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ADS/dd1-s25-project1-outliers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v6
+13	92	7652170086896473	CMakeFiles/dd1_s25_project1_outliers.dir/term.cpp.obj	408e3c0dba2cb80a
+7	968	7652170086826637	CMakeFiles/dd1_s25_project1_outliers.dir/main.cpp.obj	4f9c85011eadf30a
+2	985	7652170086776774	CMakeFiles/dd1_s25_project1_outliers.dir/implicant.cpp.obj	b4a3b964a7bb9f7e
+10	3190	7652170086856584	CMakeFiles/dd1_s25_project1_outliers.dir/QuineMcCluskey.cpp.obj	641ac7f140562719
+3190	4680	7652170118664252	dd1_s25_project1_outliers.exe	5faf789530503830

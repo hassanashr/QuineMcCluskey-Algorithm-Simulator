@@ -1,0 +1,4 @@
+1
+m0
+d
+# Convention: "d" means no don’t-care terms.

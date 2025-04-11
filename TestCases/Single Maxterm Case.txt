@@ -1,0 +1,4 @@
+3  
+M5
+d  
+Convention: "d" means no don’t-care terms.
